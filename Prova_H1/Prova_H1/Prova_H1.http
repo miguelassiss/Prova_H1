@@ -1,0 +1,6 @@
+@Prova_H1_HostAddress = http://localhost:5023
+
+GET {{Prova_H1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
